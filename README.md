@@ -1,6 +1,9 @@
 # ECharts Practice
 百度 ECharts 实践示例项目
 
+![](https://img.shields.io/badge/status-in_progress-brightgreen.svg) ![](https://img.shields.io/github/languages/top/zhangpeng96/ECharts-Practice.svg) ![](https://img.shields.io/github/license/zhangpeng96/ECharts-Practice.svg)
+
+
 ### 项目目录
 
 
